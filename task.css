@@ -1,0 +1,49 @@
+.first1{
+    
+    position: absolute;
+    border: 0px solid brown;
+    top: 12px;
+    left: 12px;
+}
+.first2{
+    position: absolute;
+    border: 0px solid brown;
+   top: 12px;
+   left: 200px;
+}
+.first3{
+    
+    position: absolute;
+    border: 0px solid brown;
+    top: 12px;
+    left: 400px;
+}
+.first4{
+    
+    position: absolute;
+    border:0px solid brown;
+    /* bottom: 150px; */
+    top: 200px;
+    left: 200px;
+
+    
+}
+.MAIN{
+    /* border: 1px solid brown;  */
+}
+.main2{
+    /* margin-top: 25px; */
+    border: 1px solid brown;
+    top: 2px;
+    /* margin-right: 888px; */
+    /* padding: 2px; */
+    height: 400px;
+    margin-right: 700px;
+    position: relative;
+}
+.para{
+    position: absolute;
+    top: 300px;
+    margin-left: 620px;
+    border: 0px solid brown;
+}
