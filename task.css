@@ -16,7 +16,7 @@
     position: absolute;
     border: 0px solid brown;
     top: 12px;
-    left: 400px;
+    left: 390px;
 }
 .first4{
     
@@ -29,21 +29,162 @@
     
 }
 .MAIN{
-    /* border: 1px solid brown;  */
+     font-weight: 700;
 }
 .main2{
-    /* margin-top: 25px; */
-    border: 1px solid brown;
+    margin-top: 3px;
+    border: 7px solid rgb(165, 42, 48);
+    border-radius: 25px;
     top: 2px;
     /* margin-right: 888px; */
     /* padding: 2px; */
-    height: 400px;
-    margin-right: 700px;
+    height: 364px;
+    margin-right: 1150px;
+    margin-left: 25px;
     position: relative;
+    background-color: white;
+    
 }
 .para{
     position: absolute;
-    top: 300px;
+    top: 210px;
     margin-left: 620px;
     border: 0px solid brown;
+    font-size:23px;
+    color: chocolate;
+    
+}
+.play{
+    font-size: 41px;
+    
+}
+.nuts{
+    border: 0px solid brown;
+    margin-top: 20px;
+    position: relative;
+    height: 387px;
+    width: 670px;
+    text-align: center;
+    margin-left: 580px;
+}
+
+.last{
+    height: 70px;
+    width: 70px;
+}
+.last1{
+    top:15px;
+    left: 15px;
+    width: 90px;
+    border: 0px solid pink;
+    position: absolute;
+    margin-right: 50px;
+}
+.last2{
+    top:15px;
+    left: 110px;
+    width: 90px;
+    border: 0px solid pink;
+    position: absolute;
+    margin-left: 82px;
+
+}
+.last3{
+    top:15px;
+    left: 207px;
+    width: 90px;
+    border: 0px solid pink;
+    position: absolute;
+    margin-left: 160px;
+
+}
+.last4{
+    top:15px;
+    left: 303px;
+    width: 90px;
+    border: 0px solid pink;
+    position: absolute;
+    margin-left: 235px;
+}
+.last5{
+    top:185px;
+    left: 15px;
+    width: 90px;
+    border: 0px solid pink;
+    position: absolute;
+    margin-right: 50px;
+}
+.last6{
+    top:185px;
+    left: 110px;
+    width: 90px;
+    border: 0px solid pink;
+    position: absolute;
+    margin-left: 82px;
+}
+.last7{
+    top:185px;
+    left: 207px;
+    width: 90px;
+    border: 0px solid pink;
+    position: absolute;
+    margin-left: 160px;
+}
+.last8{
+    top:185px;
+    left: 303px;
+    width: 90px;
+    border: 0px solid pink;
+    position: absolute;
+    margin-left: 235px;
+}
+.align{
+    margin-left: 657px;
+    font-size: 30px;
+}
+.sum1{
+    height: 65px;
+    width: 65px;
+}
+.sum2{
+    height: 65px;
+    width: 65px;
+}
+.sum3{
+    height: 65px;
+    width: 65px;
+}
+.same1{
+    position: fixed;
+    /* height:2px;
+    width: 20px; */
+    top: 350px;
+    left: 1667px;
+}
+.same2{
+    position: fixed;
+    /* height:2px;
+    width: 20px; */
+    top: 450px;
+    left: 1667px;
+}
+.same3{
+    position: fixed;
+    /* height:2px;
+    width: 20px; */
+    top: 540px;
+    left: 1667px;
+}
+.head{
+    position: relative;
+}
+.heads{
+    border: 0px solid brown;
+    margin-bottom: 5px;
+    padding-top: 2px;
+    position: absolute;
+    margin-left: 15px;
+}
+body{
+    background-color: antiquewhite;
 }
